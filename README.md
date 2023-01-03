@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-I am making lamb tonight
+I am making lamb tonight from HelloFresh!
